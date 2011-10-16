@@ -1,0 +1,17 @@
+target/
+stacktrace.log
+web-app/WEB-INF/classes/*
+dtd/*
+.classpath
+.project
+.idea/*
+.settings/*
+*.iml
+*.swp
+*~
+out/*
+atlassian-ide-plugin.xml
+*.tld
+test/reports
+*.log
+.DS_Store
